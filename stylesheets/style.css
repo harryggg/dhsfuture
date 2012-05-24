@@ -1,0 +1,49 @@
+body{
+	background-image:url(http://www.dabaoku.com/sucai/shejilei/bj/0473.jpg);
+	background-repeat:repeat-x repeat-y;
+}
+
+ol{
+	list-style-type:none
+}
+
+div.logo{
+	left:0px; 
+	top:0px; 
+	position:absolute;
+}
+
+div.border{
+	top: 50%;
+	width:600px;
+	font-family: 'Salsa', cursive;
+	border-style:dotted;
+}
+
+div.results{
+	border:dotted;
+	width:600px;
+	height:500px;
+	overflow:auto;
+}
+input.subject{
+	border:0px;
+	text-align:right;
+	width:100px;
+	background-color:transparent;
+	font-family: 'Salsa', cursive;
+}
+
+input.score{
+	border:0px;
+	text-align:center;
+	width:25px;
+	background-color:transparent
+}
+
+input.h1h2{
+	border:0px;
+	text-align:center;
+	width:30px;
+	background-color:transparent;
+}
